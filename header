@@ -1,0 +1,7 @@
+version = 0.8
+title = Boot chart for Android ( 10/04/12 13:01:23 )
+system.uname = Linux version 2.6.29-g46b05b2 (vchtchetkine@vc-irv.irv.corp.google.com) (gcc version 4.4.3 (GCC) ) #28 Thu Nov 17 06:39:36 PST 
+system.release = 0.0
+system.cpu = ARMv7 Processor rev 0 (v7l)
+system.kernel.options = qemu.gles=0 qemu=1 console=ttyS0 android.qemud=ttyS1 android.checkjni=1 ndns=2
+
