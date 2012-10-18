@@ -1,0 +1,63 @@
+[GIT 관련]
+1. http://ecogeo.tistory.com/276
+2. http://croute.me/528
+3. http://namhyung.springnote.com/pages/3132772#toc_10
+4. http://developer.soundig.com/3
+5. http://pentath.tumblr.com/tagged/github
+6.
+
+
+[Android]
+<OOME & LMK & Garbage Collection>
+1. http://ecogeo.tistory.com/287
+2. http://gogorchg.tistory.com/entry/Android-메모리-누스-memory-leak
+3. http://icarus21.tistory.com/31
+4. http://blog.naver.com/david_shkim?Redirect=Log&logNo=50150428046
+5. http://andstudy.springnote.com/pages/3667993
+6. http://dalinaum-kr.tumblr.com/post/4528344482/android-low-memory-killer
+7. http://barriosstory.blogspot.kr/search/label/linux%20kernel
+8. http://www.slideshare.net/wuman/improving-android-application-performance-invited-talk-at-national-taiwan-university
+9. http://blog.daum.net/pebiman/1716786 (LMK)
+10. http://blog.daum.net/pebiman/1716786 (GC)
+11. http://lyb1495.tistory.com/6
+12. http://shadowxx.egloos.com/10767929
+13. http://cafe.naver.com/nxss/94317
+14. http://regen.egloos.com/4517293
+15. http://andrs.w3pla.net/autokiller/details
+16. http://cafe.naver.com/nxss/93893
+17.
+18.
+
+
+<개발환경>
+1. http://croute.me/528
+2. http://taehyo.egloos.com/3940575  : 커널소스 내려받기
+3. http://www.kandroid.org/board/board.php?board=androidsource&command=body&no=81
+4. http://source.android.com/source/building.html
+5. http://blog.naver.com/bigseven89?Redirect=Log&logNo=10143126458
+6.
+7.
+
+
+<넥서스 S>
+1. http://www.androidpub.com/1937594
+2. http://jaehwa.egloos.com/1014020
+3.
+
+
+<Goldfish>
+1. http://blog.naver.com/dkyun77?Redirect=Log&logNo=50145881248
+2. http://blog.markloiseau.com/2012/07/how-to-compile-the-android-goldfish-emulator-kernel/
+3. http://aroundck.tistory.com/113
+4. http://dongyoung.thoth.kr/?document_srl=7237339
+5.
+6.
+
+
+<Boot chart>
+<넥서스 S>
+1. http://www.slideshare.net/iamhjoo/bootchart
+2. http://blog.naver.com/PostView.nhn?blogId=kysant&logNo=20123868629&redirect=Dlog&widgetTypeCall=true
+3. http://jongseok73.blogspot.kr/2008/12/android-bootchart-active.html
+4.
+5.
